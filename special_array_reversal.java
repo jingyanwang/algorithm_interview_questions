@@ -1,5 +1,16 @@
 /*
 https://www.geeksforgeeks.org/reverse-a-string-without-affecting-special-characters/
+
+Efficient Solution:
+Time complexity of above solution is O(n), but it requires extra space and it does two traversals of input string.
+We can reverse with one traversal and without extra space. Below is algorithm.
+
+1) Let input string be 'str[]' and length of string be 'n'
+2) l = 0, r = n-1
+3) While l is smaller than r, do following
+    a) If str[l] is not an alphabetic character, do l++
+    b) Else If str[r] is not an alphabetic character, do r--
+    c) Else swap str[l] and str[r]
 */
 
 //java code to illustrate how to reverse
