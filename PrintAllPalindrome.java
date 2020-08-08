@@ -1,7 +1,8 @@
 /*
 https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/
 
-The idea is to go through every substring starting from first character, check if it is palindrome. If yes, then add the substring to solution and recur for remaining part. Below is complete algorithm.
+The idea is to go through every substring starting from first character, check if it is palindrome.
+If yes, then add the substring to solution and recur for remaining part. Below is complete algorithm.
 
 Below is the implementation of above idea.
 */
@@ -17,9 +18,7 @@ public class PrintAllPalindrome{
 	// Driver program
 	public static void main(String[] args){
 		String input = "nitin";
-
 		allPalPartions(input);
-
 	}
 
 	// Function to print all possible palindormic partitions of str.
