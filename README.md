@@ -22,6 +22,8 @@ Reverse a Linked List in groups of given size
 
 Given a linked list, write a function to reverse every k nodes (where k is an input to the function).
 
+Time complexity O(n+m), space complexity O(1)
+
 Example:
 
 Input: 1->2->3->4->5->6->7->8->NULL, K = 3
@@ -32,4 +34,3 @@ Input: 1->2->3->4->5->6->7->8->NULL, K = 5
 
 Output: 5->4->3->2->1->8->7->6->NULL
 
-Time complexity O(n+m), space complexity O(1)
