@@ -28,8 +28,7 @@ class Solution {
         while(l!=null){len++;l=l.next;}
         return len;
     }
-
-    
+ 
     public void pushToResult(int i){
         ListNode newData = new ListNode(i);
         newData.next = resultHead;
@@ -140,11 +139,9 @@ class Playground {
         s.addTwoNumbers(l1,l2);
 
         System.out.println("Hello Java");
-
-
+     
         n = s.resultHead;
         while(n!=null){System.out.println(n.val+" ");n=n.next;}
         //System.out.println(s.carry+" ");
-
     }
 }
