@@ -16,7 +16,7 @@ Output
 
   Resultant list: 1->4->0->5  // represents number 1405
 
-J.
+J. https://github.com/jingyanwang/jims_algorithm_playground/blob/master/LinkedList_add_two_linkedlist.java
 
 <img src="https://raw.githubusercontent.com/jingyanwang/jims_algorithm_playground/master/WeChat%20Screenshot_20200829171915.png" width="600">
 
