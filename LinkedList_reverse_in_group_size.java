@@ -18,11 +18,7 @@ class linkedList{
     
     Node head;
     
-    public void push(int i){
-        Node newNode = new Node(i);
-        newNode.next = head;
-        head = newNode;
-    }
+    public void push(int i){Node newNode = new Node(i); newNode.next = head; head = newNode;}
     
     public void printList(Node head){
         while(head != null){
