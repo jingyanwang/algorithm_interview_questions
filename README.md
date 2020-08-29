@@ -17,9 +17,11 @@ Output
   Resultant list: 1->4->0->5  // represents number 1405
 
 J.
+
 <img src="https://raw.githubusercontent.com/jingyanwang/jims_algorithm_playground/master/WeChat%20Screenshot_20200829171915.png" width="600">
 
 H.
+
 <img src="https://raw.githubusercontent.com/jingyanwang/jims_algorithm_playground/master/WeChat%20Image_20200829171908.png" width="600">
 
 
