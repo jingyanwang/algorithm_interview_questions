@@ -1,4 +1,4 @@
-# jims_algorithm_playground
+# Linked list
 
 ## battle 1
 
