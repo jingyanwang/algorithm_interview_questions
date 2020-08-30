@@ -73,7 +73,7 @@ class Solution {
                 else head = next;
                 prev = activePrev;
                 curr = next;
-                printList(head);
+                //printList(head);
             }else{
                 prev = curr;
                 curr = curr.next;
