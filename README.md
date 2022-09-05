@@ -102,7 +102,7 @@ code:
 
 ## Merge Sort
 
-video: https://youtu.be/24ShTIFppPc
+video: https://www.youtube.com/watch?v=24ShTIFppPc
 
 https://www.youtube.com/watch?v=CQDUWyJQKLQ&t=439s
 
