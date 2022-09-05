@@ -76,3 +76,31 @@ code: [compare_strings_represented_as_linked_lists.ipynb](https://github.com/jin
 9. Detect And Remove Loop In A Linked List
 10. Merge Sort For Linked Lists
 11. Select A Random Node from A Singly Linked List
+
+
+# Sorting And Searching
+
+1. Binary Search
+2. Search an element in a sorted and rotated array
+3. Bubble Sort
+4. Insertion Sort
+5. Merge Sort
+6. Heap Sort (Binary Heap)
+7. Quick Sort
+8. Interpolation Search
+9. Find Kth Smallest/Largest Element In Unsorted Array
+10. Given a sorted array and a number x, find the pair in array whose sum is closest to x
+
+
+# Tree / Binary Search Tree
+
+1. Find Minimum Depth of a Binary Tree
+2. Maximum Path Sum in a Binary Tree
+3. Check if a given array can represent Preorder Traversal of Binary Search Tree
+4. Check whether a binary tree is a full binary tree or not
+5. Bottom View Binary Tree
+6. Print Nodes in Top View of Binary Tree
+7. Remove nodes on root to leaf paths of length < K
+8. Lowest Common Ancestor in a Binary Search Tree
+9. Check if a binary tree is subtree of another binary tree
+10. Reverse alternate levels of a perfect binary tree
