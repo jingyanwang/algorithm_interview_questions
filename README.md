@@ -21,7 +21,15 @@ youtube: https://www.youtube.com/watch?v=1YIIicoc4D4&t=11s
 code: https://github.com/jingyanwang/algorithm_interview_questions/blob/master/Depth_First_Search_for_a_Graph.java
 
 
-3. Shortest Path from source to all vertices **Dijkstra**
+## Shortest Path from source to all vertices **Dijkstra**
+
+### youtube: https://www.youtube.com/watch?v=Upt-EMmC8lI&t=10s
+
+### algorithm: https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
+
+### code: https://github.com/jingyanwang/algorithm_interview_questions/blob/master/Dijkstra_Shortest_Path.ipynb
+
+
 4. Shortest Path from every vertex to every other vertex **Floyd Warshall**
 5. To detect cycle in a Graph **Union Find**
 6. Minimum Spanning tree **Prim**
