@@ -10,13 +10,14 @@ https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/#algo5
 
 1. Insertion of a node in Linked List (On the basis of some constraints)
 2. Delete a given node in Linked List (under given constraints)
-3. Compare two strings represented as linked lists
+
+## Compare two strings represented as linked lists
 
 algorithm: https://www.geeksforgeeks.org/compare-two-strings-represented-as-linked-lists/
 
 youtube: https://www.youtube.com/watch?v=EEU9OJoczyI 
 
-code: require 'compare_strings_represented_as_linked_lists.ipynb'
+code: [compare_strings_represented_as_linked_lists.ipynb](https://github.com/jingyanwang/algorithm_interview_questions/blob/master/compare_strings_represented_as_linked_lists.ipynb)
 
 5. Add Two Numbers Represented By Linked Lists
 6. Merge A Linked List Into Another Linked List At Alternate Positions
