@@ -1,9 +1,22 @@
-# jims_algorithm_playground
-
-
-## Top 10 algorithms in Interview Questions
+Top 10 algorithms in Interview Questions
 
 https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/#algo5
+
+# Graph
+
+## Breadth First Search (BFS)
+
+## Depth First Search (DFS)
+
+
+3. Shortest Path from source to all vertices **Dijkstra**
+4. Shortest Path from every vertex to every other vertex **Floyd Warshall**
+5. To detect cycle in a Graph **Union Find**
+6. Minimum Spanning tree **Prim**
+7. Minimum Spanning tree **Kruskal**
+8. Topological Sort
+9. Boggle (Find all possible words in a board of characters)
+10. Bridges in a Graph
 
 
 # Linked List
