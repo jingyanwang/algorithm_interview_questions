@@ -49,8 +49,17 @@ code: https://github.com/jingyanwang/algorithm_interview_questions/blob/master/F
 
 # Linked List
 
-1. Insertion of a node in Linked List (On the basis of some constraints)
-2. Delete a given node in Linked List (under given constraints)
+## Insertion of a node in Linked List (On the basis of some constraints)
+
+algorithm: https://www.geeksforgeeks.org/given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way/
+
+youtube: https://www.youtube.com/watch?v=BgznhOMhZNo&t=569s
+
+code: https://github.com/jingyanwang/algorithm_interview_questions/blob/master/insert_into_sorted_linked_array.ipynb
+
+
+## Delete a given node in Linked List (under given constraints)
+
 
 ## Compare two strings represented as linked lists
 
