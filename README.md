@@ -125,7 +125,17 @@ https://github.com/jingyanwang/algorithm_interview_questions/blob/master/Sort_Me
 2. Maximum Path Sum in a Binary Tree
 3. Check if a given array can represent Preorder Traversal of Binary Search Tree
 4. Check whether a binary tree is a full binary tree or not
-5. Bottom View Binary Tree
+
+
+## Bottom View Binary Tree
+
+video: https://www.youtube.com/watch?v=v7cHYJ1IYOM&t=52s
+
+algorithm: https://www.geeksforgeeks.org/bottom-view-binary-tree/ 
+
+code: https://www.youtube.com/watch?v=v7cHYJ1IYOM&t=52s
+
+
 6. Print Nodes in Top View of Binary Tree
 7. Remove nodes on root to leaf paths of length < K
 8. Lowest Common Ancestor in a Binary Search Tree
