@@ -54,6 +54,7 @@ code: https://github.com/jingyanwang/algorithm_interview_questions/blob/master/F
 algorithm: https://www.geeksforgeeks.org/given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way/
 
 youtube: https://www.youtube.com/watch?v=BgznhOMhZNo&t=569s
+https://www.youtube.com/watch?v=3UNfFnB2QWo&t=1s
 
 code: https://github.com/jingyanwang/algorithm_interview_questions/blob/master/insert_into_sorted_linked_array.ipynb
 
@@ -80,7 +81,12 @@ code: [compare_strings_represented_as_linked_lists.ipynb](https://github.com/jin
 
 # Sorting And Searching
 
-1. Binary Search
+## Binary Search
+
+video: https://www.youtube.com/watch?v=Er2Nr5HwlUQ&t=195s
+
+algorithm: https://www.geeksforgeeks.org/binary-search/
+
 2. Search an element in a sorted and rotated array
 3. Bubble Sort
 4. Insertion Sort
