@@ -90,7 +90,14 @@ algorithm: https://www.geeksforgeeks.org/binary-search/
 2. Search an element in a sorted and rotated array
 3. Bubble Sort
 4. Insertion Sort
-5. Merge Sort
+
+
+## Merge Sort
+
+video: https://www.youtube.com/watch?v=CQDUWyJQKLQ&t=439s
+
+algorithm: http://geeksquiz.com/merge-sort/
+
 6. Heap Sort (Binary Heap)
 7. Quick Sort
 8. Interpolation Search
