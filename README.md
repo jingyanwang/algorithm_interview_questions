@@ -23,11 +23,11 @@ code: https://github.com/jingyanwang/algorithm_interview_questions/blob/master/D
 
 ## Shortest Path from source to all vertices **Dijkstra**
 
-### youtube: https://www.youtube.com/watch?v=Upt-EMmC8lI&t=10s
+youtube: https://www.youtube.com/watch?v=Upt-EMmC8lI&t=10s
 
-### algorithm: https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
+algorithm: https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
 
-### code: https://github.com/jingyanwang/algorithm_interview_questions/blob/master/Dijkstra_Shortest_Path.ipynb
+code: https://github.com/jingyanwang/algorithm_interview_questions/blob/master/Dijkstra_Shortest_Path.ipynb
 
 
 4. Shortest Path from every vertex to every other vertex **Floyd Warshall**
