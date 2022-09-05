@@ -6,7 +6,15 @@ https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/#algo5
 
 ## Breadth First Search (BFS)
 
+algorithm: https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
+youtube: https://www.youtube.com/watch?v=vT_Qh5LH3O4&t=375s
+code: https://github.com/jingyanwang/algorithm_interview_questions/blob/master/breadth_first_search_for_graph.java
+
 ## Depth First Search (DFS)
+
+algorithm: https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
+youtube: https://www.youtube.com/watch?v=1YIIicoc4D4&t=11s
+code: https://github.com/jingyanwang/algorithm_interview_questions/blob/master/Depth_First_Search_for_a_Graph.java
 
 
 3. Shortest Path from source to all vertices **Dijkstra**
