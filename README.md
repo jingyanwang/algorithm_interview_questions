@@ -104,6 +104,8 @@ video: https://www.youtube.com/watch?v=CQDUWyJQKLQ&t=439s
 
 algorithm: http://geeksquiz.com/merge-sort/
 
+code: https://github.com/jingyanwang/algorithm_interview_questions/blob/master/Sort_MergeSort.java
+
 6. Heap Sort (Binary Heap)
 7. Quick Sort
 8. Interpolation Search
