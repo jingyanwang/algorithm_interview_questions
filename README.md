@@ -89,6 +89,8 @@ algorithm: https://www.geeksforgeeks.org/binary-search/
 
 2. Search an element in a sorted and rotated array
 3. Bubble Sort
+
+
 ## Insertion Sort
 
 algorithm:
@@ -100,11 +102,15 @@ code:
 
 ## Merge Sort
 
-video: https://www.youtube.com/watch?v=CQDUWyJQKLQ&t=439s
+video: https://youtu.be/24ShTIFppPc
+
+https://www.youtube.com/watch?v=CQDUWyJQKLQ&t=439s
 
 algorithm: http://geeksquiz.com/merge-sort/
 
-code: https://github.com/jingyanwang/algorithm_interview_questions/blob/master/Sort_MergeSort.java
+code: https://github.com/jingyanwang/algorithm_interview_questions/blob/master/Merge_Sort.ipynb 
+
+https://github.com/jingyanwang/algorithm_interview_questions/blob/master/Sort_MergeSort.java
 
 6. Heap Sort (Binary Heap)
 7. Quick Sort
