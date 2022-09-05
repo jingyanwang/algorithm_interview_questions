@@ -139,5 +139,16 @@ code: https://www.youtube.com/watch?v=v7cHYJ1IYOM&t=52s
 6. Print Nodes in Top View of Binary Tree
 7. Remove nodes on root to leaf paths of length < K
 8. Lowest Common Ancestor in a Binary Search Tree
-9. Check if a binary tree is subtree of another binary tree
+
+
+## Check if a binary tree is subtree of another binary tree
+
+video: https://www.youtube.com/watch?v=RTqhMH3ogTM&t=461s
+
+algorithm: https://www.geeksforgeeks.org/check-if-a-binary-tree-is-subtree-of-another-binary-tree/
+
+code: https://github.com/jingyanwang/algorithm_interview_questions/blob/master/Check_if_a_binary_tree_is_subtree_of_another_binary_tree.ipynb
+
+
+
 10. Reverse alternate levels of a perfect binary tree
