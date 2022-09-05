@@ -89,7 +89,13 @@ algorithm: https://www.geeksforgeeks.org/binary-search/
 
 2. Search an element in a sorted and rotated array
 3. Bubble Sort
-4. Insertion Sort
+## Insertion Sort
+
+algorithm:
+
+vidoe:
+
+code:
 
 
 ## Merge Sort
