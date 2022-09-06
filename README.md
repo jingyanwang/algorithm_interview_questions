@@ -24,7 +24,7 @@ algorithm: https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
 
 youtube: https://www.youtube.com/watch?v=1YIIicoc4D4&t=11s
 
-code: https://github.com/jingyanwang/algorithm_interview_questions/blob/master/Depth_First_Search_for_a_Graph.java
+code: [java](Depth_First_Search_for_a_Graph.java)
 
 
 ## Shortest Path from source to all vertices **Dijkstra**
