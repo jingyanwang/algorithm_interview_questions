@@ -16,7 +16,7 @@ algorithm: https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph
 
 youtube: https://www.youtube.com/watch?v=vT_Qh5LH3O4&t=375s
 
-code: https://github.com/jingyanwang/algorithm_interview_questions/blob/master/breadth_first_search_for_graph.java
+code: [java](breadth_first_search_for_graph.java)
 
 ## Depth First Search (DFS)
 
