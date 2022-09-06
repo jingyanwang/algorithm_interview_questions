@@ -1,4 +1,9 @@
-Top 10 algorithms in Interview Questions
+##### Table of Contents  
+
+<a name="headers"/>
+
+
+# Top 10 algorithms in Interview Questions
 
 https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/#algo5
 
